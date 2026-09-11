@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alifalak1221.github.io/ToolsVero/sitemap.xml
